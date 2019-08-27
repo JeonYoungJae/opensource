@@ -3,3 +3,8 @@ Hi~
 J
 Y
 J
+t
+e
+c
+sdcard
+cert
